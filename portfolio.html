@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+  *{background-color:antiquewhite;}
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 img{ border:black; border-width:1px; }
 </style>
@@ -298,6 +299,7 @@ img{ border:black; border-width:1px; }
     function show(shown,hidden) {
       document.getElementById(shown).style.display='block';
       document.getElementById(hidden).style.display='none';
+      window.scrollTo(0,0);
       return false;
     }
     </script>
