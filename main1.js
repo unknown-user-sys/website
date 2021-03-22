@@ -25,7 +25,7 @@ let track_list = [
     name: "Khuda Aur Muhabbat Season 3 Ost Mp3land.co.mp3",
     artist: "Khuda Aur Muhabbat Season 3 Ost Mp3land.co.mp3",
     image: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fringtonedownload.best%2Fwp-content%2Fuploads%2F2021%2F02%2Fkhuda-aur-mohabbat-season-3-ringtone-download.jpg&imgrefurl=https%3A%2F%2Fringtonedownload.best%2Fkhuda-aur-mohabbat-season-3-ringtone-theme-song-lyrics&tbnid=ZzzTUQZHgJszsM&vet=12ahUKEwit4K3QpsPvAhWGXn0KHbKyCYMQMygDegQIARAx..i&docid=6Lroz-IKeveZiM&w=500&h=500&q=man%20jhoom%20jhoom%20ost%20mp3%20song%20download&client=ubuntu&ved=2ahUKEwit4K3QpsPvAhWGXn0KHbKyCYMQMygDegQIARAx",
-    path: "/home/akshay/Music/Khuda Aur Muhabbat Season 3 Ost Mp3land.co.mp3"
+    path: "Khuda Aur Muhabbat Season 3 Ost Mp3land.co.mp3"
   },
   
 ];
